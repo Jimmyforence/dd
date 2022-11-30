@@ -1,0 +1,23 @@
+span
+    {
+        display: block;
+        width: 100px;
+        height: 40px;
+        background:GREEN;
+        
+        
+        margin-top: 3px;
+        transform-origin: 0px 100%;
+        transition: all 200ms;
+        grid-area: content;
+        }
+
+        .p1Text{
+             width: 50px;
+             font-size: x-large;
+            background-color: rgb(255, 255, 255);
+            color: rgb(0, 0, 0);
+            resize: none;
+            border: 0ch;
+            overflow: auto; }
+        
